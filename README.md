@@ -22,7 +22,7 @@ El equipo de RappiPlus necesitaba entender cuánto aportaban los pedidos despué
 
 ## Archivos del proyecto
 
-- [Notebook con el análisis en Python y SQL](rappiplus_portafolio.ipynb)
+- [Notebook con el análisis en Python y SQL](rappiplus-portafolio.ipynb)
 - [Informe para abrir en Power BI Desktop](rappiplus_dashboard.pbix)
 
 ![Vista del dashboard ejecutivo de RappiPlus](dashboard_overview.png)
